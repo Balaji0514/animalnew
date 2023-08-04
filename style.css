@@ -1,0 +1,43 @@
+body{
+    background-image: linear-gradient(to bottom,red,black);
+    
+}
+
+   img{
+    float: left;
+    width: 200px;
+    height: 200px;
+    padding-right: 40px;
+    
+    
+   }
+ h1{
+    background-color: black;
+    color: red;
+    text-shadow: 3px 3px rgb(136, 12, 12);
+    
+ }
+ #new{
+    border: solid black 2px;
+    height: 30px;
+    background-color: black;
+   text-align: center;
+   font-size: larger;
+ }
+ .h{
+    position: absolute;
+
+ }
+ a{
+    text-decoration:none;
+}
+#new{
+    background-color: black; 
+    
+}
+#new>a{
+   color:red;
+   padding:0px 50px;
+}
+
+   
